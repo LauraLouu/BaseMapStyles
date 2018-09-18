@@ -1,0 +1,58 @@
+{
+  "airplane-33": {
+    "height": 53,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 0,
+    "y": 0
+  },
+  "airplane-66": {
+    "height": 53,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 53,
+    "y": 0
+  },
+  "airplane-99": {
+    "height": 53,
+    "pixelRatio": 1,
+    "width": 53,
+    "x": 0,
+    "y": 53
+  },
+  "star-33": {
+    "height": 49,
+    "pixelRatio": 1,
+    "width": 49,
+    "x": 53,
+    "y": 53
+  },
+  "star-66": {
+    "height": 49,
+    "pixelRatio": 1,
+    "width": 49,
+    "x": 106,
+    "y": 0
+  },
+  "star-99": {
+    "height": 49,
+    "pixelRatio": 1,
+    "width": 49,
+    "x": 155,
+    "y": 0
+  },
+  "stripe": {
+    "height": 5,
+    "pixelRatio": 1,
+    "width": 5,
+    "x": 204,
+    "y": 0
+  },
+  "wave": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 102,
+    "y": 53
+  }
+}
