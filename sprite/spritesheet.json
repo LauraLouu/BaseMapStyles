@@ -1,0 +1,205 @@
+{
+  "airplane-33": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 100,
+    "y": 0
+  },
+  "airplane-66": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 115,
+    "y": 0
+  },
+  "airplane-99": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 130,
+    "y": 0
+  },
+  "star-33": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 145,
+    "y": 0
+  },
+  "star-66": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 160,
+    "y": 0
+  },
+  "star-99": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 175,
+    "y": 0
+  },
+  "stripe": {
+    "height": 5,
+    "pixelRatio": 1,
+    "width": 5,
+    "x": 80,
+    "y": 20
+  },
+  "wave": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "wave-m": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 0,
+    "y": 20
+  },
+  "wave-m-dark": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 40,
+    "y": 20
+  },
+  "wave-s": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 85,
+    "y": 20
+  },
+  "crop-2": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 43,
+        "y": 39
+    },
+    "crop-4": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 48,
+        "y": 39
+    },
+  "grass-2": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 53,
+        "y": 39
+    },
+    "grass-4": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 58,
+        "y": 39
+    },
+  "scrub-2": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 73,
+        "y": 39
+    },
+    "srcub-4": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 78,
+        "y": 39
+    },
+  "wood-2": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 93,
+        "y": 39
+    },
+    "wood-4": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 98,
+        "y": 39
+    },
+  "ice-2": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 63,
+        "y": 39
+    },
+    "ice-4": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 68,
+        "y": 39
+    },
+    "dot-l": {
+        "height": 9,
+        "pixelRatio": 1,
+        "width": 9,
+        "x": 37,
+        "y": 29
+    },
+    "dot-m": {
+        "height": 8,
+        "pixelRatio": 1,
+        "width": 8,
+        "x": 47,
+        "y": 29
+    },
+    "dot-s": {
+        "height": 7,
+        "pixelRatio": 1,
+        "width": 8,
+        "x": 56,
+        "y": 29
+    },
+    "dot": {
+        "height": 18,
+        "pixelRatio": 1,
+        "width": 17,
+        "x": 0,
+        "y": 28
+    },
+  "kreuz": {
+        "height": 5,
+        "pixelRatio": 1,
+        "width": 5,
+        "x": 37,
+        "y": 39
+    },
+    "square-m": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 83,
+        "y": 39
+    },
+    "square-s": {
+        "height": 4,
+        "pixelRatio": 1,
+        "width": 4,
+        "x": 88,
+        "y": 39
+    },
+    "star": {
+        "height": 17,
+        "pixelRatio": 1,
+        "width": 17,
+        "x": 19,
+        "y": 29
+    }
+}
