@@ -22,7 +22,7 @@
             "url": "mapbox://mapbox.mapbox-terrain-v2"
         }
     },
-    "sprite": "https://lauralouu.github.io/Master-style/sprite/spritesheet",
+    "sprite": "https://lauralouu.github.io/BaseMapStyles/sprite/spritesheet",
     "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key=GrAx6cf8Rdc79tTKxzgT",
     "layers": [
         {
